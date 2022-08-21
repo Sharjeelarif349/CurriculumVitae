@@ -1,0 +1,81 @@
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.main_header {
+    width: 99%;
+    height: 150px;
+    margin: 2px auto;
+    background-color: rgb(55, 165, 255);
+}
+
+h1 {
+    margin: 0px auto;
+    padding: 40px;
+    text-align: center;
+    font-size: 48px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.line_header {
+    width: 99%;
+    height: 10px;
+    margin: 2px auto;
+    background-color: black;
+}
+
+.image {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+    border-radius: 400px 400px;
+    background-color: grey;
+}
+
+.information {
+    width: 98%;
+    margin: 5px auto;
+}
+
+.information>h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.information>p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+
+.objective {
+    width: 30%;
+    height: 40px;
+    margin: 40px auto;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 5px 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(55, 165, 255);
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 2px 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text  > p {
+    margin: 2px 15px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
